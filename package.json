@@ -1,6 +1,6 @@
 {
   "name": "board.pipe",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "WebSocket pipe of board.",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
   "homepage": "https://github.com/v0lkan/board.pipe#readme",
   "dependencies": {
     "board.log": "^0.1.0",
-    "board.queue": "^0.1.0"
+    "board.queue": "^0.1.0",
+    "socket.io": "^1.3.6"
   }
 }
